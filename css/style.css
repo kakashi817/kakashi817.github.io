@@ -1,0 +1,54 @@
+/* 
+
+Project Name: Killua Zoldyck 
+Client: One Month
+Author: Trevor Roderick
+Developed at home w/ Laptop in SC
+
+*/
+
+body {
+	background-image: url('../images/killua-picture.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+#container {
+	background: #7686c5;
+	width: 424px;
+	color: #e4e4e4;
+	font-family: 'MedievalSharp', cursive;
+	padding: 15px;
+	opacity: 0.75;
+
+}
+
+#video {
+	position: absolute;
+}
+
+h1 {
+	font-size:  75px;
+}
+
+h2 {
+	background: #e1d3d0;
+	color: #26275f;
+	padding: 5px;
+	border-radius: 20px;
+}
+
+p {
+	color: black;
+	font-size: 17px;
+}
+
+a {
+	color: #a8e8ed;
+	text-decoration: none; /* removes underlines */
+}
